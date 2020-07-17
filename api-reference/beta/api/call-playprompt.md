@@ -1,7 +1,7 @@
 ---
 title: "call: playPrompt"
 description: "Play a prompt in the call."
-author: "ananmishr"
+author: "jsandoval-msft"
 localization_priority: Normal
 ms.prod: "cloud-communications"
 doc_type: apiPageType

@@ -1,7 +1,7 @@
 ---
 title: "recordingInfo resource type"
 description: "Recording information for a participant."
-author: "ananmishr"
+author: "jsandoval-msft"
 localization_priority: Normal
 ms.prod: "cloud-communications"
 doc_type: resourcePageType

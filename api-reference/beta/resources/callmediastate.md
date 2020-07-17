@@ -1,7 +1,7 @@
 ---
 title: "callMediaState resource type"
 description: "Represents the media state for a call."
-author: "ananmishr"
+author: "jsandoval-msft"
 ms.prod: "cloud-communications"
 localization_priority: Normal
 doc_type: resourcePageType

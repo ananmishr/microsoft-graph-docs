@@ -1,7 +1,7 @@
 ---
 title: "audioSourceLevel resource type"
 description: "Level configuration for other sources."
-author: "ananmishr"
+author: "jsandoval-msft"
 localization_priority: Normal
 ms.prod: "microsoft-teams"
 doc_type: resourcePageType

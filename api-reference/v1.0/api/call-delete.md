@@ -1,7 +1,7 @@
 ---
 title: "Delete call"
 description: "Delete or hang up an active call."
-author: "ananmishr"
+author: "jsandoval-msft"
 localization_priority: Normal
 ms.prod: "cloud-communications"
 doc_type: apiPageType

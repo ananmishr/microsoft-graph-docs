@@ -1,7 +1,7 @@
 ---
 title: "mediaStream resource type"
 description: "Contains information about the media channel."
-author: "ananmishr"
+author: "jsandoval-msft"
 localization_priority: Normal
 ms.prod: "cloud-communications"
 doc_type: resourcePageType

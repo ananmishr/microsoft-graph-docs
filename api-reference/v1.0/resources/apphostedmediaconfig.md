@@ -1,7 +1,7 @@
 ---
 title: "appHostedMediaConfig resource type"
 description: "Media stack hosted by the application."
-author: "ananmishr"
+author: "jsandoval-msft"
 localization_priority: Normal
 ms.prod: "cloud-communications"
 doc_type: resourcePageType

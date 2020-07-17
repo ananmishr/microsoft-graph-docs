@@ -1,7 +1,7 @@
 ---
 title: "Update audio routing group"
 description: "Modify sources and receivers of an audioRoutingGroup."
-author: "ananmishr"
+author: "jsandoval-msft"
 localization_priority: Normal
 ms.prod: "cloud-communications"
 doc_type: apiPageType

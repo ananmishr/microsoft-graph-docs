@@ -1,7 +1,7 @@
 ---
 title: "organizerMeetingInfo resource type"
 description: "Contains details about the meeting organizer. "
-author: "ananmishr"
+author: "jsandoval-msft"
 localization_priority: Normal
 ms.prod: "cloud-communications"
 doc_type: resourcePageType

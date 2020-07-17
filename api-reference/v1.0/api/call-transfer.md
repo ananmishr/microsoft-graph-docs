@@ -1,7 +1,7 @@
 ---
 title: "call: transfer"
 description: "Transfer an active peer-to-peer call."
-author: "ananmishr"
+author: "jsandoval-msft"
 localization_priority: Normal
 ms.prod: "cloud-communications"
 doc_type: apiPageType

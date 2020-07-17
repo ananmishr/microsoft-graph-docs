@@ -1,7 +1,7 @@
 ---
 title: "incomingContext resource type"
 description: "The context associated with an incoming call."
-author: "ananmishr"
+author: "jsandoval-msft"
 localization_priority: Normal
 ms.prod: "cloud-communications"
 doc_type: resourcePageType

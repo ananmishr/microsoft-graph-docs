@@ -1,7 +1,7 @@
 ---
 title: "Get started with cloud communications"
 description: "Learn how you can use bots to respond to your customers' needs and facilitate collaboration."
-author: "ananmishr"
+author: "jsandoval-msft"
 localization_priority: Normal
 ms.prod: "cloud-communications"
 ---

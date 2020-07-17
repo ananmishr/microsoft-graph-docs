@@ -1,7 +1,7 @@
 ---
 title: "Create audio routing group"
 description: "Create a new **audioRoutingGroup**."
-author: "ananmishr"
+author: "jsandoval-msft"
 localization_priority: Normal
 ms.prod: "cloud-communications"
 doc_type: apiPageType

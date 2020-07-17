@@ -1,7 +1,7 @@
 ---
 title: "Media overview"
 description: "Enable your bots to send and receive audio and video related content."
-author: "ananmishr"
+author: "jsandoval-msft"
 localization_priority: Normal
 ms.prod: "cloud-communications"
 ---

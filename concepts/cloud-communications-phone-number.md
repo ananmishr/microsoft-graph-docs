@@ -1,7 +1,7 @@
 ---
 title: "Manage phone numbers for bots"
 description: "This article describes how to create a bot that is reachable through a phone number."
-author: "ananmishr"
+author: "jsandoval-msft"
 localization_priority: Normal
 ms.prod: "cloud-communications"
 ---
